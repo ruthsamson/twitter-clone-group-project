@@ -1,4 +1,4 @@
-# `README.md` - Twitter Clone
+# `README.md` - Twitter Clone (without Firebase)
 
 ## <img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-icon-png-logo-2.png" alt="Twitter logo" width="5%" align="center" /> About the App
 
