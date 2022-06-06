@@ -1,5 +1,7 @@
 # `README.md` - Twitter Clone (without Firebase)
 
+Twitter Clone w/ Firebase added : https://github.com/ruthsamson/twitter-clone
+
 ## <img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-icon-png-logo-2.png" alt="Twitter logo" width="5%" align="center" /> About the App
 
 A twitter clone website that implements CRUD functionality and allows users to post, edit, read, and delete entries. Authenticates users by email and stores and updates entries using a database through Firebase. 
